@@ -1,37 +1,4 @@
-# 翻译
 
-翻译：@[inVains](https://github.com/inVains) @[songzy12](https://github.com/songzy12) @[cnskis](https://github.com/cnskis)
-
-- - -
-
-# 关于 DAMN VULNERABLE WEB APPLICATION（DVWA）
-
-Damn Vulnerable Web Application (DVWA)(译注：可以直译为："该死的"不安全Web应用程序)，是一个编码差的、易受攻击的 PHP/MySQL Web应用程序。 它的主要目的是帮助信息安全专业人员在合法的环境中，练习技能和测试工具，帮助 Web 开发人员更好地了解如何加强 Web 应用程序的安全性，并帮助学生和教师在可控的教学环境中了解和学习 Web 安全技术。
-    
-DVWA的目的是通过简单明了的界面来**练习一些最常见的 Web 漏洞**，所练习的漏洞具有**不同的难度级别**。 请注意，此软件**存在提示和无提示的漏洞**。 这是特意为止。 我们鼓励您依靠自己的能力尝试并发现尽可能多的安全问题。
-- - -
-
-## 警告！
-
-DVWA非常容易被攻击！  **不要将其上传到您的云服务器上对外公开的 web 文件夹中或任何在公网中的web服务器上**，否则服务器可能会被攻击。 建议使用虚拟机安装DVWA（如[VirtualBox](https://www.virtualbox.org/) 或[VMware](https://www.vmware.com/)），网络配置为NAT组网。在客机（guest machine）中，您可以下载并安装 [XAMPP](https://www.apachefriends.org/) 用作搭建DVWA的 Web 服务和数据库服务。
-
-### 免责声明
-
-我们不对任何人使用此应用程序 (DVWA) 的方式负责。 我们已经明确了应用程序的目的，该程序以及相关技术不应被恶意使用。 我们已警告并采取相关措施阻止用户将 DVWA 安装到生产环境的 Web 服务器上。 如果您的 Web 服务器因安装 DVWA 而被攻击，这不是我们的责任，而是由上传和安装它的人负责。
-
-- - -
-
-## 许可
-
-该文件是Damn Vulnerable Web Application (DVWA) 的一部分。
-
-Damn Vulnerable Web Application (DVWA)是自由软件：您可以根据自由软件基金会发布的 GNU 通用公共许可证（许可证的第 3 版，或（由您选择的）任何更高版本）重新分发和/或修改。
-
-Damn Vulnerable Web Application (DVWA) 的发布是为了希望它有用，但不（对"有用性"）做任何保证； 甚至不对可销售性（MERCHANTABILITY）或针对特定目的的适用性（FITNESS FOR A PARTICULAR PURPOSE）的做任何暗示保证。 有关更多详细信息，请参阅 GNU 通用公共许可证。
-
-您应该已经在Damn Vulnerable Web Application (DVWA)中收到一份GNU通用公共许可证副本。 如果没有，请参阅 <https://www.gnu.org/licenses/>。
-
-- - -
 
 ## 国际化
 
